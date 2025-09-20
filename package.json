@@ -3,10 +3,29 @@
   "version": "1.0.7",
   "description": "",
   "main": "index.js",
+  "keywords": [
+    "react",
+    "reactjs",
+    "react-cli",
+    "create-react-app",
+    "create-react-app alternative",
+    "typescript",
+    "tailwind",
+    "tailwindcss",
+    "parcel",
+    "parcel-boilerplate",
+    "starter",
+    "boilerplate",
+    "scaffold",
+    "react-starter",
+    "react-boilerplate",
+    "frontend",
+    "javascript",
+    "web-development"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bin": {
